@@ -1,3 +1,5 @@
+# 📦 unofficial_twitch_http
+
 Client package for twitch unofficial app.
 
 Available on pub.dev: https://pub.dev/packages/unofficial_twitch_http
