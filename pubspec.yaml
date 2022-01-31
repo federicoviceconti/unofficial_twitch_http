@@ -1,6 +1,6 @@
 name: unofficial_twitch_http
-description: Package used for making HTTP requests
-version: 0.0.1
+description: Package for making HTTP requests used by unofficial_twitch packages
+version: 0.0.2
 homepage: https://www.federicoviceconti.com
 
 environment:
