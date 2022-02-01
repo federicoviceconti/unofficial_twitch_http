@@ -1,3 +1,7 @@
+## 0.0.2
+
+* Updating documentation
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Creating the HTTP client
